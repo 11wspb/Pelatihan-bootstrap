@@ -1,5 +1,5 @@
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-creative/)**
+**[View Live Preview](http://localhost/pelatihan-bootstrap/index.html)**
 
 ## Status
 
