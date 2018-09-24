@@ -1,0 +1,61 @@
+
+.nav-link:hover{
+	background-color: #999;
+	transition: 0.5s;
+	color: black;
+	border-radius: 3px;
+}
+.nav-item, .dropdown-item{
+	color: black;
+	font-size: 15px;
+}
+#gambar{
+	padding: 290px 0;
+	font-family: arial;
+	font-weight: 500;
+	color: black;
+}
+#about{
+	padding: 100px 0;
+	background-color: white;
+}
+#btn-daftar{
+	border-radius: 10px;
+	color: white;
+}
+.bg-dark{
+	background-color: #4f79a4 !important;
+}
+.ttl1{
+	font-family: arial;
+	font-size: 15px;
+}
+#footer{
+	background-color: #4f79a4;
+	padding: 5px;
+}
+.subtitle{
+	font-family: arial;
+	font-size: 12px;
+}
+#contact{
+	background-color: #2e3c51;
+	padding: 50px 0;
+}
+#send{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+#team{
+	background-color: #2e3c51;
+	padding: 70px 0;
+}
+.ttl2{
+	font-size: 17px;
+	font-family: arial;
+	color: #fff;
+}
+.btn-kirim{
+	padding-left: 50px;
+	padding-right: 50px;
+}
